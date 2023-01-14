@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(../img/1616635678_14-p-matematicheskii-fon-16.jpg);
+    background-size: cover;
+}
+
+header{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+header,h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+}
+
+.wrapper{
+    display:flexbox;
+    align-items: center;
+    justify-content: center;
+    margin-left: 39%;
+}
+
+.input{
+    width: 22vw;
+    background-color: #fff;
+    border: 1px solid black;
+}
+
+h3{
+    margin-top: 20px;
+}
+
+.input,h3{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button{
+    padding: 5px 90px;
+    margin-top: 20px;
+    border-radius: 0;
+    background-color: #7c37d6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+input{
+    padding: 5px 40px
+}
+
+.answer{
+    background-color: #fff;
+    width: 22vw;
+    height: 100px;
+    margin-top: 30px;
+    border: 1px solid black;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.out{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.input,p{
+    margin-top: 10px;
+}
+
+
